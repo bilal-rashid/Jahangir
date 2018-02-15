@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Driver</string>
+    <string name="company"><b>C O M S A T S</b></string>
+    <string name="splash_text">Driver App</string>
+</resources>
